@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /AdvancedInstaller/MessagesForWeb-cache
 /AdvancedInstaller/Setup Files
 /AdvancedInstaller/*.back*.aip
+# Installer output
+installer/output/

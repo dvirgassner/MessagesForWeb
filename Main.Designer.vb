@@ -88,14 +88,14 @@ Partial Class Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1011, 687)
+        Me.ClientSize = New System.Drawing.Size(900, 650)
         Me.Controls.Add(Me.WV)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Main"
         Me.Opacity = 0R
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Messages for Web"
-        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
+        Me.WindowState = System.Windows.Forms.FormWindowState.Normal
         Me.ContextMenu.ResumeLayout(False)
         CType(Me.WV, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
