@@ -8,7 +8,7 @@ This is a fork of [asheroto/messagesforweb](https://github.com/asheroto/messages
 
 Changes made in November 2026:
 
-- **Windows notifications.** An incoming message shows as a normal Windows notification and stays in the notification center. The original shows the small popup of the embedded browser, which Windows does not keep.
+- **Windows notifications.** An incoming message shows as a native Windows notification and stays in the notification center. The original showed the small popup of the embedded browser, which Windows does not keep.
 - **Click to open.** A click on a notification opens the app on that conversation.
 - **Notifications while the window is open.** Google Messages sends no notification while it thinks you are looking at it. This fork can notify always. Turn this off with **Notify also when the window is open** in the tray menu.
 - **No permission prompt.** Notifications from `messages.google.com` are allowed automatically.
